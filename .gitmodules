@@ -1,0 +1,3 @@
+[submodule "folderToSubmodule"]
+	path = folderToSubmodule
+	url = git@github.com:dattareve/folderToSubmodule.git
